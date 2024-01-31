@@ -1,0 +1,30 @@
+.main1{
+    margin-left: 490px;
+    margin-top: 120px;
+}
+.main2{
+    display: flex;
+    gap: 40px;
+    
+}
+.cointainer{
+    height: fit-content;
+    width: 300px;
+    text-align: justify;
+    border: solid 2px whitesmoke;
+}
+.thumbnail{
+    background-color: gray;
+    height:150px;
+    width: 300px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+.read{
+    margin-left: 120px;
+    background-color: white;
+    border: none;
+    font-size: 15px;
+}
